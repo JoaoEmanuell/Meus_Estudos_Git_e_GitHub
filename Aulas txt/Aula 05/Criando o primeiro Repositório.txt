@@ -1,0 +1,2 @@
+Nessa aula aprendemos a criar um repositorio local, usar o commit para atualizar o repositorio local, usar o push para enviar ate o github.
+
