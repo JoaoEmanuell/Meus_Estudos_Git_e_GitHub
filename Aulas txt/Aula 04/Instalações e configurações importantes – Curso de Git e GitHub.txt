@@ -1,0 +1,3 @@
+Essa aula serviu para aprendermos a instalar o git, github desktop e o vscode.
+
+Coisas que eu ja tenho ;-;

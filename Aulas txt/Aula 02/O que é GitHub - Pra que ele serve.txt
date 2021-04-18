@@ -1,0 +1,45 @@
+Basicamente o github é um local para armazenar seus arquivos, além de permitir você participar de outros repositórios, visualizar o trabalho de outras pessoas, uma rede social para progamadores.
+
+Enquanto o git é responasavel pelo repositório local o github é responsavel pelo repositorio remoto
+
+=======
+
+Vantagens do github:
+
+Repositórios ilimitados:
+
+Você pode ter quantos repositorios publicos e privados você quiser
+
+Hospededagem de código-fonte:
+
+Matenha salvo o código-fonte de diversas linguagems de progamação
+
+Características de rede social:
+
+Ele tem as características de uma rede social, criar perfil, interagir
+
+Github Pages integrado:
+
+Hospedagem de sites simples, usando html, css e js
+
+Colaboração:
+
+Permite a colaboração com projetos de outras pessoas
+
+Forks:
+
+Criar uma copia do projeto e continuar ele por conta propia, desde que respeite a licença
+
+=========
+
+Além do github existem outras opções de repositorios:
+
+GitLab
+
+Bitbucket
+
+PHABRICATOR
+
+Gogs
+
+kallithea

@@ -1,0 +1,87 @@
+Git ≠ GitHub
+
+De forma simplificada " Git " é o Software de controle de versão
+
+E o " GitHub " é uma plataforma de Rede Social para Progamadores
+
+= = = =
+
+O git se foca principalmente em versões (também chamado de versionamento)
+
+Versionamento nada mais é do que a criação de versões modificadas de um mesmo arquivo de diferentes formas, cada vez que eu altero algo eu posso criar uma nova versão e salva-lá
+
+Além do mais que caso esteja trabalho em uma equipe, vai ser necessário uma forma de controlar as versões, manter-lás em nuvem, de forma que fiquem organizadas e que todos possam acesar, por isso você vai precisar de um " Controle de versão (VCS) "
+
+= = = = = = =
+
+O primeiro software de Controle de versão que se tem notica surgiu em 1972, ele era conectado a um repositório central e era necessário está sempre conectado a ele, caso o contrario ele não iria exibir as diferenças entre um arquivo e outro (note que quando eu envio um arquivo para o repositório central eu estou fazendo um " commit ")
+
+O nome que se dá a esse modelo de versionamento é " centralizado/linear "
+
+= = ==
+
+Com o avanço da tecnologia surgiu um novo tipo de VCS, o chamado de VCS distribuído, que ao invés de ficar 100% conectado ao servidor para ver as diferentes versões, ele cria um repositório local, dessa forma você pode visualizar as diferentes versões do seu codigo mesmo sem conexão com a internet
+
+Essa nova tecnologia também conta com um repositório remoto, basicamente quando eu já cheguei a uma versão grande, eu envio para o repositório remoto por meio de um " push "
+
+= = =
+
+Softwares de VCS centralizados:
+
+CA Software Change Manager (CCC)
+
+Source Code Control System (SCCS)
+
+Panvalet
+
+Concurrent Version System (CVS)
+
+Apache Subversion (SVN)
+
+ClearCase
+
+Visual SourceSafe
+
+Perfoce
+
+Softwares de VCS distrubido:
+
+Mercurial
+
+Bazzar
+
+Code Co-op
+
+GNU arch
+
+Monotone
+
+Fossil
+
+BitKeeper
+
+Git
+
+==================================
+
+Principais vantagens de usar um software de versionamento:
+
+Controle de histórico:
+
+É possivel visualizar todas as versões anteriores do codigo e restaura-lás
+
+Trabalho em equipe:
+
+Facilita o trabalho em equipe uma vez que varias pessoas de diferentes partes do mundo podem trabalhar de forma simples e objetiva
+
+Ramificação do projeto:
+
+É possivel criar diferentes ramificações para o projeto, assim diferentes pessoas podem trabalhar em diferentes areas
+
+Segurança:
+
+Uma vez que cada pessoa pode trabalhar em uma area diferente e só terá acesso a sua area se torna impossivel uma " invasão " e quebrarem todo o projeto
+
+Organização:
+
+Por poder ver as diferentes versões do codigo, as diferentes versões dos projetos e os diferentes projetos para serem unidos em um só, isso permite uma organização absurda.

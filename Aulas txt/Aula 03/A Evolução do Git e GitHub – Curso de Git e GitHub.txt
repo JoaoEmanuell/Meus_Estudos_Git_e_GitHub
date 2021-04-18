@@ -1,0 +1,23 @@
+O git foi criado em 2005 apos o criador do BitKeeper retirar varios recursos de versionamento da versão comunidade, dessa forma o criador do linux ficou iritado e criou o git
+
+O git era um softwares distribuido, open source, foi feito em 10 dia e além disso foi focado em performace, uma vez que os outros versionadores demoravam muito para fazer um commit, o git demorava muito pouco
+
+Git pode siginificar 4 coisas uma vez que o criador original nunca disse o real siginificado do termo:
+
+Três letras do alfabeto
+
+Temioso, cabeça-dura, pensa que sempre está certo
+
+Global information tracker
+
+Goddamn idiotic truckload of shit
+
+==================================
+
+Já o GitHub surgiu em 2008, ele é um software de propietario (ou seja não tem o codigo disponivel livrimente)
+
+Foca principalmente em hospedagem de código
+
+Baseado em git
+
+Em 2018 o github foi comprado pela Microsoft, por apenas 7.5 bilhões de dolares
