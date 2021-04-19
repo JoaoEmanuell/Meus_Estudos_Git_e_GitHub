@@ -1,0 +1,7 @@
+Nessa aula aprendemos a criar um repositorio 
+local e enviar-lo para o github.
+
+Para criar um repositorio no github desktop, basta ir em:
+
+File, new repository, dessa forma você ira criar um repositorio local, clicando em push você ira enviar esse repositorio para o github e assim ele estará no repositorio remoto.
+
