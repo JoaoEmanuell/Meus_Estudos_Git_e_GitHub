@@ -1,1 +1,7 @@
 Issues siginificam "Problema, Questão"
+
+Ja o Pull-Request é quando você encontra o erro e acha uma solução para esse erro e o corrige, ai você envia para o desenvolvedor original e ele analisa, caso ele ache sua solução boa ela se torna parte do projeto original.
+
+Quando achar um erro e não saber a solução, va no Issues do projeto e procure para ver se existe a solução ja pronta, caso não exista abra uma Issue nova.
+
+
