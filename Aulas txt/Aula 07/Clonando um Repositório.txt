@@ -1,0 +1,9 @@
+Fetch origin: Dentro do github desktop existe esse botão, ele serve para verificar se existem atualizações com o github remoto, dessa forma caso haja algum arquivo diferente na sua maquina e no servidor externo ele sincroniza.
+
+Para clonar um repositorio você tem que ir em um repositorio do github, ir em code copiar o link.
+
+Ir no github desktop, file, Clone a repository, url, cole o link do repositorio no campo de url.
+
+Você também pode criar editar o caminho do repositorio.
+
+Lembre-se que você pode clonar um repositorio mas não pode substituir os arquivos do repositorio original, mas você pode criar um fork (fork será explicado daqui a algumas aulas)
