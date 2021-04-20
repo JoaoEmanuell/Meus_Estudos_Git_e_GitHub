@@ -6,4 +6,16 @@ O ideal é não comitar tudo no branch master, mas sim criar sub-branchs e comit
 
 Caso você não consiga realizar a tarefa vc pode a qualquer momento apagar a branch.
 
+Para criar uma nova Branch você vai no github desktop
 
+Branch
+
+New Branch
+
+Dessa forma você cria uma Branch
+
+Para criar um merge entre as branchs, vc vai na branch principal:
+
+Merge into current branch (ou aperta ctrl + shift + m) e envia
+
+Caso de algum conflito ele ira te inidicar e você podera resolver.
