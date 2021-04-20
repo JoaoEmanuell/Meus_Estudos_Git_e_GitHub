@@ -1,0 +1,9 @@
+Branch = Siginifica Ramo.
+
+A versão principal do software é chamada de Master, cada vez que eu comito algo e envio para o github eu estou enviando uma copia para o orign.
+
+O ideal é não comitar tudo no branch master, mas sim criar sub-branchs e comitar neles (Exemplo, uma sub-branch pro js, uma pro html, uma pro css) e depois que estiver tudo pronto vc envia (da um merge, que siginifica uma copia) para a master e da um pull para o origin.
+
+Caso você não consiga realizar a tarefa vc pode a qualquer momento apagar a branch.
+
+
