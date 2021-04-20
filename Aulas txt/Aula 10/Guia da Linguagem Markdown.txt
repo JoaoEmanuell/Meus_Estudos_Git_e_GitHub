@@ -1,0 +1,113 @@
+Markdown é uma linguagem de desenvolvimento web que é compativel com diversos sites incluindo o github.
+
+O Markdown tem o intutio de ter uma legibilidade alta.
+
+MARCAS MARKDOWN:
+
+#Titulo nivel 1
+
+**Texto** ou __Texto__ = Deixa o texto em negrito
+
+*Texto* ou _Texto_ = Deixa o texto em italico
+
+~Texto~ = Deixa o texto cortado ao meio
+
+##Titulo nivel 2; Os titulos tem niveis dependendo do numero de # na frente
+
+================================================
+
+Lista ordenada:
+
+	Numero. texto = Independente do numero que eu colocar aqui, desde que seja um numero e um texto ele ira organizar automaticamente
+
+Se eu colocar três espaços antes de um numero ele se torna um sub-item do numero acima:
+
+Num.	= 1
+   Num. = I
+ 
+================================================
+   
+Lista demarcada:
+
+A lista demarcada é uma lista sem numeros.:
+
+* texto = cria uma lista demarcada
+   * texto = Cria um sub-item em uma lista demarcada
+
+(obs, funciona com - também)
+================================================
+
+Lista de Tarefas:
+
+A lista de tarefas cria uma lista com uma caixa de marcar como feito:
+
+-[]texto
+
+Quando terminar o objetivo é so colocar um x no meio dos []
+
+-[x]texto
+================================================
+
+Links:
+
+[Mensagem](Link) = dessa forma a mensagem ficara com o linka.
+
+================================================
+
+Tabelas:
+
+Linha vertical : |
+
+Linha horizontal: ---|
+
+As linhas horizontais tem que ser compativel com o numero linhas verticais:
+
+Texto | Texto | Texto
+---|---|---|
+Texto |Texto  |Texto
+
+Dessa forma ele ira criar uma tabela
+
+================================================
+
+Formatação para codigos:
+
+`Codigo`
+
+Dessa forma ele ira colocar o texto com uma fonte monoespaçada e com o fundo destacado
+
+Para colocar varias linhas se usa três crases no inicio e três no fim do codigo
+
+```
+Codigo
+```
+
+================================================
+
+EMOJIS:
+
+:Nome
+
+Para colocar emojis é so colocar dois pontos e o nome do emoji
+
+No github da ikatyang (github.com/ikatyang) tem o codigo de todos os emojis
+
+https://github.com/ikatyang/emoji-cheat-sheet
+
+Para colocar emojis no titulo da issue é so ir na emojipedia e copiar o emoji que você quer 
+
+================================================
+
+Replay:
+
+Para fazer um replay vc clica na issue do cara e clica em replay, dessa forma ele ira criar um replay da issue
+
+Ou usar > e colocar o texto
+
+> texto
+
+Dessa forma ele ira criar um replay
+
+================================================
+
+
