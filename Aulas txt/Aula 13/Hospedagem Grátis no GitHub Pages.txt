@@ -1,0 +1,15 @@
+Para hospedar um site no github pages você vai no respositorio onde está o site:
+
+Settings:
+
+GitHub Pages:
+
+Em Source terá uma caixa que esta com o nome "none"
+
+Clique nela e mude para a master branch
+
+Dessa forma ele ira disponibilizar a url do seu site, tudo que for alterado no repositorio da branch master sera alterado no site.
+
+Normalmente o github pages demora de 30 segundos a 1 minuto para aparecer as mudanças.
+
+Para deletar uma branch vc vai no github desktop, branch e vai em delete, dessa forma ele irar deletar a branch desejada
