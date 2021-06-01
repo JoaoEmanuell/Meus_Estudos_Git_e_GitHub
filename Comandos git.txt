@@ -1,0 +1,63 @@
+git init = cria um repositorio local na pasta indicada
+
+git status = verifica as modificações que aconteceram dentro do seu 
+projeto
+
+git add arquivo_paramentro = adicionar o arquivo especificado, se usar * 
+ou . ele ira adicionar todos os arquivos.
+
+git commit -m "Comentario" = commita os arquivos para o repositorio local.
+
+git log = exibe os commits e informações sobre eles.
+
+git log --oneline = exibe os commits, cada uma em uma linha, so exibe o 
+id, a branch e o comentario.
+
+git log --graph = exbie o grafo de commits, os * serão os nodos, já as 
+linhas vermelhas serão as conexões com os nodos, você também pode 
+concatenar comandos, so usar comando --paramentro --paramento
+
+git commit -am "comentario" = adiciona o arquivo ao conteiner e 
+automaticamente faz o commit dele.
+
+git branch = intendifica o ramo que o projeto se encontra.
+
+git checkout hash = restaura o projeto para a versão do hash que você 
+colocar, hash são os numeros que você ver na frente do nodo quando usa o 
+comando git log, você pode escrever o numero inteiro ou escrever somente 
+os 7 primeiros digitos, para ver so os primeiros usse o git log --online.
+
+git checkout master = retorna o head para a branch master, serve quando 
+você restaura uma versão anterior com o chekout.
+
+git diff = mostra as alterações entre a ultima versão commitada e a 
+versão atual do arquivo.
+
+git checkout arquivo = descarta as alterações que você realizou no 
+arquivo atual, refazendo ele para o ultimo estado commitado.
+
+git reset HEAD = retira o conteudo do conteiner.
+
+git reset --hard hash = apaga o commit restaurando o projeto para o hash 
+indicado, apagando todos os commits em cima dele.
+
+git checkout -b nome = cria uma branch com o nome especificado.
+
+git checkout branch = retorna a branch especificada.
+
+git merge branch = merge a branch informada com a branch atual.
+
+git remote = exibe se o repositorio local está conectado com um 
+repoistorio externo, usando o paramentro -v, você exibe mais 
+informações.
+
+git remote add origin link = Adiciona o repositorio local a um 
+repositorio externo que o link foi informado apos o origin.
+
+git push -u origin master = faz um push inicial para o repositorio 
+externo.
+
+git clone link = clona um repositorio remoto, ele irar criar uma pasta 
+contendo o repositorio.
+
+git pull = sincroniza as alterações do github com o repositorio local.
