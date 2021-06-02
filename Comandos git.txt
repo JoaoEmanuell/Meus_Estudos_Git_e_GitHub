@@ -61,3 +61,11 @@ git clone link = clona um repositorio remoto, ele irar criar uma pasta
 contendo o repositorio.
 
 git pull = sincroniza as alterações do github com o repositorio local.
+
+git push = faz um push para o repositorio externo.
+
+git fetch = faz o download dos arquivos do repositorio remoto para a sua 
+maquina, para você resolver conflitos que possam exisitr.
+
+git config --global core.editor editor = troca o editor global do git 
+para o editor desejado.
