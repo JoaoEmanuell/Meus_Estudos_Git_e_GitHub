@@ -1,0 +1,8 @@
+Acesse o site 'shields.io';
+
+Procure o selo que você quer;
+
+Preencha as informações pedidas;
+
+Ele irar gerar um selo para você, vá na seta azul na parte infeiror da tela, clique nela, selecione 'Copy 
+Markdown', cole no readme.md do seu repositorio.
