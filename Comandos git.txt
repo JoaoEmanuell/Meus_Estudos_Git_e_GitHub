@@ -60,6 +60,8 @@ git reset HEAD = retira o conteudo do conteiner.
 git reset --hard hash = apaga o commit restaurando o projeto para o hash 
 indicado, apagando todos os commits em cima dele.
 
+git reset <file> = Caso o item tenha sido deletado, ele irá retirar aquele item da lista de restauração e adiciona-lo como um item deletado a lista dos adds.
+
 =====================================================================================
 
 git merge branch = merge a branch informada com a branch atual.
