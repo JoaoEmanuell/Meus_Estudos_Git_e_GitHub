@@ -10,6 +10,8 @@ projeto
 git add arquivo_paramentro = adicionar o arquivo especificado, se usar * 
 ou . ele ira adicionar todos os arquivos.
 
+git add -A = adiciona todos os arquivos disponiveis para serem adicionados antes de serem commitados.
+
 =====================================================================================
 
 git commit -m "Comentario" = commita os arquivos para o repositorio local.
