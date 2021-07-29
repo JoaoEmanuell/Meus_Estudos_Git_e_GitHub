@@ -102,3 +102,11 @@ maquina, para você resolver conflitos que possam exisitr.
 
 git config --global core.editor editor = troca o editor global do git 
 para o editor desejado.
+
+=====================================================================================
+
+TAGS // Servem para facilitiar a utilização do git, marcando as diferenças de versões e problemas encontrados que você ainda não resolveu.
+
+git tag = lista as tags que estão sendo utilizadas no seu projeto
+
+git tag -a nome-da-tag -m "Mensagem atrelada a tag" = cria uma nova tag, lembresse de colocar um nome para ela e uma mensagem que será sendo atrelada a ela.
