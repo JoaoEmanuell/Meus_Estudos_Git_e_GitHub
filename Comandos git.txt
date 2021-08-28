@@ -110,3 +110,7 @@ TAGS // Servem para facilitiar a utilização do git, marcando as diferenças de
 git tag = lista as tags que estão sendo utilizadas no seu projeto
 
 git tag -a nome-da-tag -m "Mensagem atrelada a tag" = cria uma nova tag, lembresse de colocar um nome para ela e uma mensagem que será sendo atrelada a ela.
+
+=====================================================================================
+
+git branch -d nome-da-branch-local = deleta a branch desejada.
