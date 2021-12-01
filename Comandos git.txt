@@ -96,7 +96,7 @@ git pull = sincroniza as alterações do github com o repositorio local.
 =====================================================================================
 
 git fetch = faz o download dos arquivos do repositorio remoto para a sua 
-maquina, para você resolver conflitos que possam exisitr.
+maquina, para você resolver conflitos que possam existir, após isso execute um git pull.
 
 =====================================================================================
 
